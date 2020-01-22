@@ -1,1 +1,1 @@
-# jccchu.github.io
+This is Joshua Chu's personal GitHub page.
