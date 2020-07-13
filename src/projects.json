@@ -1,0 +1,32 @@
+[
+  {
+    "github":"https://github.com/JCCCHU/recipe-shopping-list",
+    "name": "ZIPPY List",
+    "description": "Build a shopping list of ingredients from selected recipes!",
+    "deploy": "https://jccchu.github.io/recipe-shopping-list/"
+  },
+  {
+    "github":"https://github.com/MG-cpu90/thankly",
+    "name": "Thankly",
+    "description": "Remember the good times with a gratitude journal!",
+    "deploy": "https://thankly-test.herokuapp.com/#!"
+  },
+  {
+    "github":"https://github.com/JCCCHU/weather",
+    "name": "Weather Dashboard",
+    "description": "Search and check any city's weather.",
+    "deploy": "https://jccchu.github.io/weather/"
+  },
+  {
+    "github":"https://github.com/JCCCHU/readme-generator",
+    "name": "README Generator",
+    "description": "A command line interface for automating the creation of READMEs in Markdown",
+    "deploy": "https://github.com/JCCCHU/readme-generator/blob/master/Develop/usage.gif"
+  },
+  {
+    "github":"https://github.com/JCCCHU/employee-tracker",
+    "name": "Employee Tracker",
+    "description": "A command line interface for managing employees.",
+    "deploy": ""
+  }
+]
